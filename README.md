@@ -1,4 +1,4 @@
-### Hi there 👋
+### 宇部ラーメンがB級グルメなら風呂上がりに飲む綾鷹はSSS級グルメだと断言することが出来る。
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIJIKI777&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIJIKI777)](https://github.com/anuraghazra/github-readme-stats)
 
