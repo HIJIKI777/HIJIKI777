@@ -1,4 +1,4 @@
-### 宇部ラーメンがB級グルメなら風呂上がりに飲む綾鷹はSSS級グルメだと断言することが出来る。
+### 慢性睡眠不足人間
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIJIKI777&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
